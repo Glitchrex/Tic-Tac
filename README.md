@@ -1,4 +1,3 @@
-Certainly! I'd be happy to help you create a README file for your Tic-Tac-Toe game built using React.js. Let's get started! 😊
 
 # Tic-Tac-Toe (Game of X and O)
 
